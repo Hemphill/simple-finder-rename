@@ -16,4 +16,4 @@ You can activate the feature several different ways:
 2. Right click on a Finder item then under `Quick Actions` select `Rename...`
 3. In the Finder menu under `Services` select `Rename...`
 
-Once you've activated Rename with will ask for an original string of text to replace, and then the new text you'd like as a replacement.
+Once you've activated Rename it will ask for an original string of text to replace, and then the new text you'd like as a replacement.
