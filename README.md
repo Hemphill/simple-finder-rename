@@ -1,6 +1,6 @@
 # simple-finder-rename
 
-Simple service for renaming items in the finder. It asked for original and replacement text then does it's thing.
+Simple service for renaming items in the finder. It asks for original and replacement text then renames all matching files and folders recursively.
 
 
 ## Installation
